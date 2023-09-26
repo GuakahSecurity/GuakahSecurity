@@ -1,5 +1,5 @@
 ### 👋🏼 Hello, I'm Gustavo Hossein! 👋🏼
-##### 👻 Future computer engineer and cybersecurity student focused on pentester
+#### 👻 Future computer engineer and cybersecurity student focused on pentester
 ##### 🌎 Brazilian player
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuakahSecurity&show_icons=true&theme=radical)
